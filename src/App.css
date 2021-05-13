@@ -1,0 +1,109 @@
+.App {
+  text-align: center;
+  overflow-x: hidden;
+}
+
+.resultlist {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card-body {
+  align-items: center;
+  justify-content: center;
+  width: 250px;
+  border: 0.5px solid #cecece;
+  border-radius: 5px;
+  margin: 10px;
+  box-sizing: border-box;
+  max-width: 250px;
+}
+
+.image {
+  width: 150px;
+}
+
+.direccion {
+  text-align: left;
+  font-size: 11px;
+}
+
+#search {
+  width: 100%;
+}
+
+.header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.col-md-4 {
+  margin: 30px;
+}
+
+.navbar-header {
+  box-sizing: border-box;
+  width: 150px;
+}
+
+.container {
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.row {
+  flex-wrap: nowrap !important;
+}
+
+img {
+  width: 100%;
+}
+
+.site-banner-img {
+  display: flex;
+}
+
+.icon {
+  margin: 5px 10px;
+}
+
+.col-md-2 {
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.col-md-2 {
+  align-items: center;
+}
+
+.site-banner-img {
+  display: flex;
+}
+
+.card-footer {
+  text-align: left;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+h6 {
+  text-align: left;
+}
+
+.btn-outline-primary {
+  width: 100%;
+  margin: 10px 20px 10px 0px;
+  border-radius: 10px !important;
+}
+
+.aling {
+  display: flex;
+  align-items: center;
+}
+
+.btn-md {
+  border: 2px solid #55595c;
+}
